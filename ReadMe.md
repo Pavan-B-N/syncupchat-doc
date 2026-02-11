@@ -72,18 +72,15 @@ SyncUpChat is a full-stack real-time communication platform consisting of five i
 
 ---
 
-# Web APP Demo
+## Demo
 
-<video src="./web-app-demo.mp4" controls></video>
+### Web App
 
-[Watch Web App Demo Video](./web-app-demo.mp4)
+![Web App Demo](./web-app-demo.gif)
 
+### Mobile App
 
-# Mobile APP Demo
-
-<video src="./mobile-app-demo.mp4" controls></video>
-
-[Watch Mobile App Demo Video](./mobile-app-demo.mp4)
+![Mobile App Demo](./mobile-app-demo.gif)
 
 ---
 
